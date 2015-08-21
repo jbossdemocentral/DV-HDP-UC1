@@ -1,6 +1,6 @@
 {
-  "name":"Data Virtualization and Hortonworks Data Lake",
-  "summary":"This demo shows an example of a Sentiment and Sales Analysis with Hortonworks Data Platform and Data Virtualization.  This is DV and HDP Use Case 1.",
+  "name":"Data Virtualization sentiment analysis with Hortonworks and MySQL",
+  "summary":"This demo shows an example of a Sentiment and Sales Analysis with Hortonworks Data Platform and Data Virtualization.  This is DV and HDP Use Case 1.  Leverage Jboss Data Virtualization to mashup Sentiment analysis data with ticket and merchandise sales data on MySQL into a single view of the data.",
   "author":"Kenneth Peeples",
   "category":"dv",
   "categories":["dv"],
@@ -13,7 +13,7 @@
   "links": [ 
     {
       "name":"Code",
-      "url":"https://github.com/jbossdemocentral/DV-HDP-UC3"
+      "url":"https://github.com/jbossdemocentral/DV-HDP-UC1"
     }
   ]
 }
